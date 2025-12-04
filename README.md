@@ -56,6 +56,9 @@ Information on differences between ZALiA versions
 ---
 <br>
 
+#### [Change] Nomaph Audio Set Updated
+> Nomaph has remastered their audio set **Nomaph**.
+
 #### [Change] Platforming Challenge Difficulty Reduction
 > The difficulty has been reduced for the platforming challenge room at North Castle.
 
