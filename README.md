@@ -3,7 +3,7 @@ Information on differences between ZALiA versions
 ---
 <br>
 
-## Difference Between the Current Release 1.0.0.2 and the Current Beta-Build
+## Difference Between the Current Release 1.0.0.2 and the Current Beta-Build 1.7.7.0
 
 #### [Addition & Change] Rando: Mark Item Locations
 > The feature that displays a checkmark on the overworld location of an acquired item now has an extra option to display item locations on the overworld regardless if the item has been acquired yet. This is helpful for people unfamiliar with ZALiA and its many item locations.
