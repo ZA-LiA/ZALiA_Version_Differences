@@ -136,10 +136,19 @@ Information on differences between ZALiA versions
 ## Difference Between Beta-Build 1.7.7.0 and Beta-Build 1.7.9.0
 
 #### [Fix] Logically Unwinnable Rando Scenerio
-> In rando seeds that required the player to go through Saria, across Saria Bridge, and through Death Mtn, but Saria had been rando'd into Old Kasuto, logic did not consider that the player would need the CROSS item to traverse Old Kasuto. The player could potentially dodge all the invisible enemies, or grind their defense level to tank them, but logically, Old Kasuto is considered untraversable without the CROSS item which reveals the invisible enemies.
+> In rando seeds that required the player to go through Saria, across Saria Bridge, and through Death Mtn, but Saria had been rando'd into Old Kasuto, logic did not consider that the player would need the CROSS item to traverse Old Kasuto. The player could potentially dodge all the invisible enemies, or grind their defense level to tank them, but logically, Old Kasuto is considered untraversable without the CROSS item which reveals the invisible enemies. The cross will now be at a reachable location in these rando scenarios.
 
 #### [Fix] Rando Hints Not Working
 > Rando hints are toggable in-game regardless if the player chose the option in rando setup. However, they were not working if not chosen in rando setup and then enabled in-game.
+
+#### [Fix] Boss Rando Causing Wrong Placed Crystal in Inventory
+> If bosses were randomized, the placed crystal in the inventory would be for the boss' vanilla dungeon instead of the dungeon the player is in. The placed crystal in the inventory will now be for the dungeon the player completed.
+
+#### [Fix] Player Could Fall Through Top of Ganon-1
+> Ganon is a big rectangle stone statue which the player can get on top of and potentially clip down into, getting stuck. This has been fixed so the player cannot clip into it.
+
+#### [Fix] Rando-only Cave is in Regular Mode
+> There is a cave next to the South Parapa Desert heart piece location that only appears in rando but was showing in regular-mode. This has been fixed so it doesn't show in regular-mode.
 
 ---
 <br>
