@@ -158,3 +158,14 @@ Information on differences between ZALiA versions
 
 #### [Various]
 > Other various fixes and adjustments.
+
+---
+<br>
+
+## Difference Between Beta-Build 1.7.10.0 and Beta-Build 1.7.11.0
+
+#### [Fix] Persistant Rando Hints
+> In the scenario where the user completes a rando quest, then starts a new rando quest in an empty save file slot, any rando hints they had found from the quest they had just completed will show in the found rando hints window for the new save file. This has been fixed.
+
+#### [Fix] Wrong Blooby Position
+> A Blooby(the same kind of creatures in the Darunia downstab minigame) in the caves beyond the Dark Link battle room was in the wrong position. This has been corrected.
