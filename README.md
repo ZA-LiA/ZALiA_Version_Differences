@@ -3,7 +3,7 @@ Information on differences between ZALiA versions
 ---
 <br>
 
-## Difference Between the Current Release 1.0.0.2 and Beta-Build 1.7.7.0
+## Difference Between 1.0.0.2 and 1.7.7.0
 
 #### [Addition & Change] Rando: Mark Item Locations
 > The feature that displays a checkmark on the overworld location of an acquired item now has an extra option to display item locations on the overworld regardless if the item has been acquired yet. This is helpful for people unfamiliar with ZALiA and its many item locations.
@@ -133,7 +133,7 @@ Information on differences between ZALiA versions
 ---
 <br>
 
-## Difference Between Beta-Build 1.7.7.0 and Beta-Build 1.7.10.0
+## Difference Between 1.7.7.0 and 1.7.10.0
 
 #### [Fix] Logically Unwinnable Rando Scenerio
 > In rando seeds that required the player to go through Saria, across Saria Bridge, and through Death Mtn, but Saria had been rando'd into Old Kasuto, logic did not consider that the player would need the CROSS item to traverse Old Kasuto. The player could potentially dodge all the invisible enemies, or grind their defense level to tank them, but logically, Old Kasuto is considered untraversable without the CROSS item which reveals the invisible enemies. The CROSS will now be at a reachable location in these rando scenarios.
@@ -162,7 +162,7 @@ Information on differences between ZALiA versions
 ---
 <br>
 
-## Difference Between Beta-Build 1.7.10.0 and Beta-Build 1.7.11.0
+## Difference Between 1.7.10.0 and 1.7.11.0
 
 #### [Fix] Persistant Rando Hints
 > In the scenario where the user completes a rando quest, then starts a new rando quest in an empty save file slot, any rando hints they had found from the quest they had just completed will show in the found rando hints window for the new save file. This has been fixed.
